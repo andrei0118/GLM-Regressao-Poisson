@@ -6,11 +6,7 @@
 ## Conjunto de dados 
 
 - **Dados de interesse: número de prêmios conquistados pelos estudantes de um escola secundária.**
-- **Variaveis:** (número de prêmios)
-- **tipo de programa que estudante foi matriculado.**
-- **pontuação no exame final de matemática.**
-
-
+- **Variaveis:** (número de prêmios, tipo de programa que estudante foi matriculado, pontuação no exame final de matemática).
 
 ## Sobre o projeto
 
