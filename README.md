@@ -12,12 +12,10 @@
 
 A aplicação consiste em construir uma análise de modelo linear generalizado com distruição de poisson, o projeto pode ser divido em 5 partes:
 
-- **Leitura de dados e geração do banco de dados**
-- **Análise gráfica descritiva**
+- **Leitura de dados / Análise gráfica descritiva**
 - **Ajuste do Modelo Linear Generalizado com Distribuição de Poisson**
 - **Predição de intervalos pelo tipo de programa de estudo / Análise do ajuste do modelo**
-- **Análises do resíduos e Gráfico de Envelope**
-- **Gráfico de envelope e validação**
+- **Análises dos resíduos e Gráfico de Envelope / Validação**
 - **Alterando e comparando funções de ligação**
 
 ## Tecnologias utilizadas
