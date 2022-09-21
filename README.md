@@ -1,4 +1,4 @@
-# Regressao-Poisson
+# Modelo linear Generalizado -  Regressao Poisson
 
 ## Licença  
 [![NPM](https://img.shields.io/npm/l/react)]( https://github.com/andrei0118/Deteccao-fraudes-cartao/blob/master/LICENSE)
